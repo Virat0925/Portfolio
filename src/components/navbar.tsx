@@ -69,8 +69,8 @@ export default function Navbar() {
           <Tooltip>
             <TooltipTrigger asChild>
               <Link
-                href="https://drive.google.com/file/d/17TAHENuIb1RRt-jm-ESycBfyE3WXXnz4/view?usp=drive_link"
-                download="Virat_Bhadauriya_Resume.pdf"
+                href="https://drive.google.com/file/d/1lfovsUx0qsKOFNILuAD42LwXtpHbrfhj/view?usp=drive_link"
+                download="Virat_Resume_2yr.pdf"
                 className={cn(
                   buttonVariants({ variant: "ghost", size: "icon" }),
                   "size-12"

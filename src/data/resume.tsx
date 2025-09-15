@@ -4,7 +4,7 @@ import { HomeIcon } from "lucide-react";
 export const DATA = {
   name: "Virat Singh Bhadauriya",
   initials: "VSB",
-  url: "https://www.vardaanbhatia.com/",
+  url: "https://viratsinghbhadauriya.vercel.app/",
   location: "India",
   description:
     "Frontend Engineer who loves learning new tech and building clean, responsive, user-friendly web applications.",

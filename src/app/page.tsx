@@ -30,7 +30,7 @@ export default function Page() {
                 delay={BLUR_FADE_DELAY}
                 text={
                   <a
-                    href="mailto:vardaanbhatia55@gmail.com"
+                    href="mailto:greatvirat0925@gmail.com"
                     className="block text-inherit"
                   >
                     Frontend Engineer passionate about learning new technologies
