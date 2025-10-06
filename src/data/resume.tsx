@@ -14,7 +14,7 @@ export const DATA = {
     "Generative AI",
     "Groq SDK",
     "JavaScript",
-    "React",
+    "React.js",
     "HTML",
     "CSS",
     "Tailwind CSS",
@@ -74,11 +74,11 @@ export const DATA = {
       href: "https://mindotec.com/",
       badges: [],
       location: "Pune",
-      title: "SDE-UI",
+      title: "Software Developer",
       logoUrl: "/mindage.png",
       start: "Aug 2024",
       end: "Present",
-      description: "Collaborated with the team to develop the frontend, focusing on creating a responsive, user-friendly UI with smooth animations and an intuitive layout.",
+      description: "Collaborated with cross-functional teams to design and develop the frontend architecture of a scalable web platform, ensuring a responsive, accessible, and visually appealing UI with smooth animations and intuitive layouts.",
     },
    
     {
@@ -91,7 +91,7 @@ export const DATA = {
       start: "Aug 2022",
       end: "Sep 2023",
       description:
-        "Contributed to the development of 'WiLearn,' Wipro's in-house Learning Management System (LMS), implementing key features like a customizable dashboard, interactive course catalog, and dynamic quiz module. Enhanced UI/UX and reduced page load times by 25%, boosting user engagement by 20%.",
+        "Contributed to the development of 'WiLearn', Wipro's in-house Learning Management System (LMS), implementing key features like a customizable dashboard, interactive course catalog, and dynamic quiz module. Enhanced UI/UX and reduced page load times by 25%, boosting user engagement by 20%.",
     },
   ],
   education: [
@@ -157,10 +157,10 @@ export const DATA = {
     {
       title: "Linkify",
       href: "https://linkifylive.netlify.app/",
-      dates: "Feb 2024 - Present",
+      dates: "Feb 2025 - Present",
       active: true,
       description:
-        "Linklytics is a URL shortener with built-in analytics and Google authentication. Shorten links effortlessly while gaining insights on click data, user locations, and device types all in one streamlined platform.",
+        "Linkify is a URL shortener with built-in analytics and Google authentication. Shorten links effortlessly while gaining insights on click data, user locations, and device types all in one streamlined platform.",
       technologies: [
         "React.js",
         "Context API",
@@ -195,7 +195,7 @@ export const DATA = {
         "React.js",
         "TypeScript",
         "Redux",
-        "TailwindCSS",
+        "Tailwind CSS",
         "Shadcn UI",
         "Node.js",
         "Express.js",

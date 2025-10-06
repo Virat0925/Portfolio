@@ -33,7 +33,7 @@ export default function Page() {
                     href="mailto:greatvirat0925@gmail.com"
                     className="block text-inherit"
                   >
-                    Frontend Engineer passionate about learning new technologies
+                    A Software Developer passionate about learning new technologies
                     and creating clean, responsive, and user-friendly web
                     applications. <br />
                     {/* <span className="text-blue-700 dark:text-blue-500">
