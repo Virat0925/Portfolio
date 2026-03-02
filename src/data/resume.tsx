@@ -15,6 +15,7 @@ export const DATA = {
     "Groq SDK",
     "JavaScript",
     "React.js",
+    "React Flow",
     "HTML",
     "CSS",
     "Tailwind CSS",
@@ -70,14 +71,25 @@ export const DATA = {
 
   work: [
     {
+      company: "Tata Consultancy Services",
+      href: "https://www.tcs.com/",
+      badges: [],
+      location: "Pune",
+      title: "System Engineer(Frontend Development)",
+      logoUrl: "/tcs.png",
+      start: "Jan 2026",
+      end: "Present",
+      description: "Currently working as a System Engineer(Frontend) at Tata Consultancy Services, contributing to frontend development for enterprise applications using React.js and modern UI technologies. I utilize AI-assisted development workflows to enhance productivity, optimize performance, and build scalable, responsive user interfaces within Agile development environments.",
+    },
+    {
       company: "Mindage Solutions",
       href: "https://mindotec.com/",
       badges: [],
       location: "Pune",
-      title: "Software Developer",
+      title: "Frontend Developer",
       logoUrl: "/mindage.png",
       start: "Aug 2024",
-      end: "Present",
+      end: "Dec 2025",
       description: "Collaborated with cross-functional teams to design and develop the frontend architecture of a scalable web platform, ensuring a responsive, accessible, and visually appealing UI with smooth animations and intuitive layouts.",
     },
    
@@ -154,6 +166,37 @@ export const DATA = {
     
   ],
   projects: [
+    {
+      title: "HR workflow Management System",
+      href: "https://hr-workflow-designer-module.vercel.app/",
+      dates: "Feb 2025 - Present",
+      active: true,
+      description:
+        "Interactive HR workflow designer with React Flow for building approval and automation pipelines using a drag-and-drop interface.",
+      technologies: [
+        "React.js",
+        "TypeScript",
+        "React Flow",
+        "Tailwind CSS",
+        "Custom Hooks",
+        "Graph Algorithms",
+        "Vite",
+      ],
+      links: [
+        {
+          type: "Live",
+          href: "https://hr-workflow-designer-module.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/Virat0925/HR-Workflow-Designer-Module",
+
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/Hr workflow.png",
+    },
     {
       title: "Linkify",
       href: "https://linkifylive.netlify.app/",

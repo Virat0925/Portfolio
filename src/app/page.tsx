@@ -33,9 +33,7 @@ export default function Page() {
                     href="mailto:greatvirat0925@gmail.com"
                     className="block text-inherit"
                   >
-                    A Software Developer passionate about learning new technologies
-                    and creating clean, responsive, and user-friendly web
-                    applications. <br />
+                    Frontend Engineer with experience building scalable web applications. Passionate about creating performant, user-friendly interfaces and leveraging AI-assisted development to deliver modern, efficient frontend solutions. <br />
                     {/* <span className="text-blue-700 dark:text-blue-500">
                       ✅ Currently working and not open to new opportunities.
                     </span> */}
